@@ -4,7 +4,7 @@ I'm **Matin Kiani**, also known as **Maht**. I'm a passionate **TALL-Stack Devel
 
 **My Expertise:**
 
--   **Front-End:**  HTML5, Tailwind CSS, Alpine.js
+-   **Front-End:**  HTML5, Tailwind CSS, Alpine.js, Vue3, Innertia.js
 -   **Back-End:**  PHP ,Laravel, Livewire
 -  **Database and Caching:** Mysql, Graphql, Redis 
 -   **Additional Skills:**  Mobile App Development with Kotlin, A little bit of Python and C++
